@@ -25,7 +25,7 @@ Users should be able to:
   - The input field is empty
   - The email address is not formatted correctly
 
-### Screenshot
+### Screenshots
 
 ***Big Layout***\
 ![](./screenshots/large.png)
