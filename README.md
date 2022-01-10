@@ -42,7 +42,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Respository](https://github.com/jordan-na/bookmark-landing-page-responsive.git)
-- Live Site URL: [Hosted on Github Pages](https://jordan-na.github.io/bookmark-landing-page-responsive/)
+- Live Site URL: [Hosted on Github Pages](https://jordan-na.github.io/bookmark-landing-page/)
 
 ## My process
 
